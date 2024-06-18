@@ -1,7 +1,7 @@
 # achu12348
 [![MasterHead](https://cdn.dribbble.com/userupload/11688966/file/original-cc8c4251d04b1e2106dffb732e809e6c.mp4)](https://achu123486.io)
 <h1 align="center">Hi 👋, I'm ANZIL MOHAMMED</h1>
-<h3 align="center">A passionate newly Graduated BIOMEDICAL ENGINEER from India</h3>
+<h3 align="center">A passionate newly Graduated Biomedical Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/portrait-3d-male-doctor_23-2151107515.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achu123486&label=Profile%20views&color=0e75b6&style=flat" alt="achu123486" /> </p>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Medical Equipements**
 
-- 💬 Ask me about **medical|Biomedical Equipements**
+- 💬 Ask me about **Medical|Biomedical Equipements**
 
 - 📫 How to reach me **anzilachuzz1096@gmail.com**
 
